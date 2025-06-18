@@ -21,12 +21,12 @@ Bu uygulama, kişisel egzersizlerini takip etmek isteyen kullanıcılar için ge
 
 ## Ekran Görüntüleri
 
-![Ana Ekran](ekran1.png)
-![Egzersiz Ekleme](ekran6.png)
-![Hedef Belirleme](ekran2.png)
-![Haftalık Egzersiz Grafiği](ekran3.png)
-![Uygulama Tema Değiştirme -Sistem](ekran4.png)
-![Uygulama Tema Değiştirme -Aydınlık](ekran5.png)
+![Ana Ekran](ekran1.PNG)
+![Egzersiz Ekleme](ekran6.PNG)
+![Hedef Belirleme](ekran2.PNG)
+![Haftalık Egzersiz Grafiği](ekran3.PNG)
+![Uygulama Tema Değiştirme -Sistem](ekran4.PNG)
+![Uygulama Tema Değiştirme -Aydınlık](ekran5.PNG)
 
 
 ## Geliştirici
