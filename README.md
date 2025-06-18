@@ -1,0 +1,2 @@
+# FitnessTracker
+iOS için geliştirilmiş bir fitness takip uygulamasıdır. Kullanıcılar egzersizlerini tarih ve süre bilgisiyle kaydedebilir, haftalık toplam sürelerini takip edebilir ve kendilerine bir hedef belirleyebilir. Hedefe ulaşma yüzdesi ilerleme çubuğu ile görselleştirilmiştir. Uygulama ayrıca light/dark tema desteğiyle birlikte gelir ve kullanıcı arayüzü sade olacak şekilde tasarlanmıştır. Ek olarak, kullanıcılar haftalık ilerlemelerini grafiksel olarak görüntüleyebilir.
